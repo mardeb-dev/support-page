@@ -15,3 +15,9 @@ Tips for faster support:
 - Mention any steps you’ve already tried.
 
 Thank you for reaching out—your feedback helps us improve!
+
+
+
+## Privacy Policy
+
+Please read our full [Privacy Policy](PRIVACY_POLICY.md).
